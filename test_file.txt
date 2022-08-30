@@ -1,6 +1,9 @@
+new commit
 124
 456
 Add Line
 Add second line
 Add line
 hard commit
+add again new new line
+before reset
