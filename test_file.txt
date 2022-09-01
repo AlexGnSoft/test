@@ -1,7 +1,0 @@
-First commit_undated
-Second commit
-
-Local changes+ Remote changes
-
-secong line
-new branch line
